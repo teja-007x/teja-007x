@@ -85,8 +85,8 @@
 
 ## 📚 Education
 
-- 🎓 B.Tech  (2019–2022)  
-- 🎓 Diploma (2016–2019)  
+- 🎓 B.Tech  
+- 🎓 Diploma  
 
 ---
 
